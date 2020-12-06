@@ -1,3 +1,5 @@
+
+
 # r-time-picker
 
 React Timepicker mobile-friendly, responsive
@@ -18,6 +20,6 @@ React Timepicker mobile-friendly, responsive
 - [ ] suport type.d.ts
 
 
-## To Do Features
---- 
+## LICENSE
+note:Parts of the code were copied from  [materialize](https://github.com/Dogfalo/materialize) thenks for [materialize](https://github.com/Dogfalo/materialize)
 Licensed under [MIT]
